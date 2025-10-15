@@ -7,7 +7,7 @@ Since then, we've learned a lot of new things in the course, and we would like t
 ## Astro setup
 
 - Create a new -Empty- Astro project to get started. Initialize a git repository and make your first commit.
-- Create a repo on GitHub and push your local repo to GitHub.
+- Create a reupo on GitHub and push your local repo to GitHub.
 - Create a new feature branch called `feature/layout` and switch to that branch.
 - Create a base layout, move everything from the `index.astro` to there since we will be using it on all pages. Use the BaseLayout in the `index.astro` page.
 - Add the Google font data to the base layout, so it's available on all pages.
